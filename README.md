@@ -7,7 +7,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/novakcgx/novakcgx/blob/master/img/scene.png?raw=true" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/novakcgx/novakcgx/blob/master/img/scene.png?raw=true" width="300px"/>
 
   
 ### 🧐 More About Me:
