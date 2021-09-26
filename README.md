@@ -12,7 +12,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I am currently studying on [ENSA Khouribga](http://ensak.usms.ac.ma/ensak/)
+- 🔭 &nbsp; I am currently studying in [ENSA Khouribga](http://ensak.usms.ac.ma/ensak/)
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/OssMajali?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
