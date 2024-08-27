@@ -2,7 +2,6 @@
 [![Insta Instagram](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/ossama_majali/)
 [![LinkedIn LinkedIn](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ossama-majali-2941b61a2/)
 
-<img align="right" alt="GIF" src="https://github.com/novakcgx/novakcgx/blob/master/img/scene.png?raw=true" width="300px"/>
   
 ### 🧐 More About Me:
 
